@@ -1,5 +1,6 @@
+# README
 
-# <img src="./images/piggy.png" alt ="Happy pig chef surrounded by cooking spoons"height='50'></a>
+![a pink pig who is also a chef](image.png)
 
 ## Overview
 
